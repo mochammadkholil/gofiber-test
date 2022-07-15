@@ -9,3 +9,6 @@ sebelum menajalankan code perlu dipersiapkan :
 1. database dan tabel ada di file db.sql
 2. menyiapkan os environment variable dg nama fiber_db, dengan format seperti berikut :
 host=%s port=%d user=%s password=%s dbname=%s sslmode=disable
+3. atau bisa juga menjalankan code dengan file run_backend.cmd dan run_frontend.cmd
+
+
