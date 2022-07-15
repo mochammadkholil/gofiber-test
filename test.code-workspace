@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "frontend"
+		},
+		{
+			"path": "backend"
+		}
+	],
+	"settings": {
+		"SAP HANA Database Explorer.displaySapWebAnalyticsStartupNotification": false,
+		"SAP HANA Database Explorer.enableSapWebAnalytics": false
+	}
+}
